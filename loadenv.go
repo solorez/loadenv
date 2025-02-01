@@ -1,5 +1,5 @@
 // Package loadenv 提供环境变量加载和热重载功能
-package main
+package loadenv
 
 import (
 	"log"
